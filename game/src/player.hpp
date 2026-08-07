@@ -1,7 +1,6 @@
 #pragma once
 
 #include <array>
-#include <SDL3/SDL.h>
 
 struct Player {
     float x = 200;
